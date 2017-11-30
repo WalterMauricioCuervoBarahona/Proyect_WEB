@@ -1,0 +1,78 @@
+
+{
+
+	"frames":[
+		{
+
+			"filename":"image1001",
+			"sourceSize":{
+				"w":1156,
+				"h":1057},
+			"spriteSourceSize":{
+				"y":0,
+				"x":0,
+				"w":1156,
+				"h":1057},
+			"frame":{
+				"y":10,
+				"x":10,
+				"w":1156,
+				"h":1057},
+			"trimmed":false},
+		{
+
+			"filename":"image1002",
+			"sourceSize":{
+				"w":1156,
+				"h":1057},
+			"spriteSourceSize":{
+				"y":0,
+				"x":0,
+				"w":1156,
+				"h":1057},
+			"frame":{
+				"y":10,
+				"x":1171,
+				"w":1156,
+				"h":1057},
+			"trimmed":false},
+		{
+
+			"filename":"image1003",
+			"sourceSize":{
+				"w":1156,
+				"h":1057},
+			"spriteSourceSize":{
+				"y":0,
+				"x":0,
+				"w":1156,
+				"h":1057},
+			"frame":{
+				"y":10,
+				"x":2332,
+				"w":1156,
+				"h":1057},
+			"trimmed":false},
+		{
+
+			"filename":"image1004",
+			"sourceSize":{
+				"w":1156,
+				"h":1057},
+			"spriteSourceSize":{
+				"y":0,
+				"x":0,
+				"w":1156,
+				"h":1057},
+			"frame":{
+				"y":10,
+				"x":3493,
+				"w":1156,
+				"h":1057},
+			"trimmed":false}],
+	"meta":{
+		"scale":1,
+		"image":"vector 5.png",
+		"size":{
+			"w":4659,
+			"h":1077}}}
